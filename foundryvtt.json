@@ -1,0 +1,7 @@
+{
+  "project": {
+    "type": "system",
+    "premium": false
+  },
+  "includes": ["compatibility/", "fonts/", "icon/", "lang/", "packs/", "templates/", "ui/", "utils/", "CONTRIBUTION.md", "COPYING", "README.md",]
+}
