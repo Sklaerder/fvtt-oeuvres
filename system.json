@@ -1,0 +1,36 @@
+{
+  "id": "fvtt-oeuvres",
+  "title": "Oeuvres: Amovra",
+  "description": "Module système pour le jeu de rôle Oeuvres et son monde, Amovra",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "13.345",
+    "verified": "13"
+  },
+  "url": "https://github.com/Sklaerder/fvtt-oeuvres/",
+  "manifest": "https://raw.githubusercontent.com/Sklaerder/fvtt-oeuvres/main/system.json",
+  "download": "https://github.com/Sklaerder/fvtt-oeuvres/releases/download/release-0.1/fvtt-oeuvres-release-0.1.zip",
+  "authors": [
+    {
+      "name": "Sklaerder",
+      "url": "http://86.192.126.80/",
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+     {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json",
+      "flags": {}
+    }
+  ],
+    }
+  }
+}
